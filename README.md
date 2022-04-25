@@ -2,7 +2,7 @@
 <h2>DESCRIÇÃO</h2>
 <h4>Estes exercicios foram respondidos no decorrer do estudo da linguagem "php"</h4>
 <p>As pastas estao organixadas como:
-  <ul>
+ <ul>
 	<li>assets (imagens)</li>
 	<li>back-end (onde estao os arquivos ".php" que fazem a operação dos calculos do exercicio)</li>
 	<li>css (estao os arquivos ".css" que estilizam o front-end) </li>
@@ -21,3 +21,6 @@
 <ul>
 	<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/> Visual Studio Code</li>
 </ul>	
+<h1>Autores</h1>
+
+- [Edson Bila dos Santos Junior](https://www.github.com/EdsonBila)
